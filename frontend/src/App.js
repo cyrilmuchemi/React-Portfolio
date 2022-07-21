@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import { About, Footer, Header, Skills, Testimonial, Work } from './container/export'
 import  Navbar from './components/Navbar/Navbar'
 
